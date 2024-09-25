@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: #F8F8F8;
+}
+
+.active{
+    background-color: white;
+    color: rgb(3, 3, 161);
+}
